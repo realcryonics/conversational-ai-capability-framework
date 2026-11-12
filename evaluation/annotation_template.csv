@@ -1,0 +1,1 @@
+scenario_id,scene_context,prior_history_summary,user_utterance,intended_outcome,primary_lv,secondary_lv,capabilities_required,annotator_id,confidence_1_to_5,evidence,disagreement_notes,model_condition,response_id,goal_fit_0_to_2,grounding_0_to_2,strategy_fit_0_to_2,boundaries_0_to_2,notes
